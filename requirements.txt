@@ -1,3 +1,3 @@
-torch==2.2.0+cpu
-transformers==4.30.0  # Version stable de transformers
-streamlit==1.18.0  # Version stable de streamlit
+torch==2.6.0
+transformers==4.30.0  
+streamlit==1.18.0 
